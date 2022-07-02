@@ -81,7 +81,7 @@
 				2630A1AE2861ADE70085258A /* SceneDelegate.swift */,
 				26F156952866EA0900518DDC /* Extension */,
 				26B4F09B2861C79200805114 /* Manager */,
-				2630A1C32861B0AF0085258A /* ViewModel */,
+				2630A1C32861B0AF0085258A /* VM */,
 				2630A1C22861B0A40085258A /* View */,
 				2630A1C02861B0890085258A /* VC */,
 				2630A1B22861ADE70085258A /* Main.storyboard */,
@@ -110,12 +110,12 @@
 			path = View;
 			sourceTree = "<group>";
 		};
-		2630A1C32861B0AF0085258A /* ViewModel */ = {
+		2630A1C32861B0AF0085258A /* VM */ = {
 			isa = PBXGroup;
 			children = (
 				2630A1C42861B17A0085258A /* MainVM.swift */,
 			);
-			path = ViewModel;
+			path = VM;
 			sourceTree = "<group>";
 		};
 		26B4F09B2861C79200805114 /* Manager */ = {
